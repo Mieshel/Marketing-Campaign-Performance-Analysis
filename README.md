@@ -8,7 +8,11 @@ The objective is to clean and analyze the existing database to gain insights int
 
 # Data Source
 Savill Analytics provided the data to be used for the analysis to write fully functioning SQL queries to help make strategic decisions.
+
 The data was stored in a single table named *campaign_data*, containing records of daily ad metrics. Key columns included:
+
 *Campaign, Date, Channel, City/Location, Device, Ad*
+
 *Impressions, Clicks, Spend, Conversions, Total conversion value*
+
 *Likes, Shares, Comments*
