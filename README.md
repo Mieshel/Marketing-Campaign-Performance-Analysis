@@ -1,7 +1,7 @@
 # Marketing-Campaign-Performance-Analysis
 
 
-![Screenshot 2025-05-05 010412](https://github.com/user-attachments/assets/bc9ea877-2bbb-4686-8636-2d019ffde6c3)
+![Screenshot 2025-05-05 105732](https://github.com/user-attachments/assets/7d2d6e43-6879-4207-b3a3-7bcf245649c3)
 
 
 # Introduction
@@ -231,12 +231,12 @@ Q2.	How do daily impressions, clicks, spend, and conversions fluctuate over the 
 
 • Optimize ad creatives for mobile-first experience, since mobile devices often dominates impressions and clicks.
 
-• If conversion rate is higher on desktop, consider retargeting desktop users or designing device-specific landing pages.
+• If conversion rate is higher on desktop, consider retargeting desktop users or designing device specific landing pages.
 
 
 ## ROI Calculation:
 
-• For campaigns with negative ROI, investigate inefficiencies—e.g., high CPCs, poor targeting, or weak creative.
+• For campaigns with negative ROI, investigate inefficiencies e.g. high CPCs, poor targeting, or weak creative.
 
 ## Time Series Analysis:
 
